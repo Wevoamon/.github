@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-<img src="[https://avatars.githubusercontent.com/u/265497048?s=200&v=4](https://github.com/Wevoamon/.github/blob/main/Frame%2019.svg)" width="140">
+<img src="https://github.com/Wevoamon/.github/blob/main/Frame%2019.png?raw=true" width="140">
 </p>
 
 <p align="center">
