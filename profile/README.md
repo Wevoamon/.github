@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Wevoamon/.github/main/logo.png" width="180">
+</p>
+
 # WN Programming Language
 
 WN is a modern systems programming language developed by the Wevoamon project.
