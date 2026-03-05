@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Wevoamon/.github/main/logo.png" width="180">
+  <img src="https://avatars.githubusercontent.com/u/265497048?s=200&v=4" width="180">
 </p>
 
 # WN Programming Language
