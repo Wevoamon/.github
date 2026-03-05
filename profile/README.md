@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Wevoamon/.github/main/WNICON.jpg" width="140">
+<img src="https://avatars.githubusercontent.com/u/265497048?s=200&v=4" width="140">
 </p>
 
 <p align="center">
